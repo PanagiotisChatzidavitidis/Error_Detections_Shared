@@ -1,0 +1,17 @@
+
+sex Mapping:
+Original Value,Encoded Value
+female,0
+male,1
+
+smoker Mapping:
+Original Value,Encoded Value
+yes,0
+no,1
+
+region Mapping:
+Original Value,Encoded Value
+southwest,0
+southeast,1
+northwest,2
+northeast,3
